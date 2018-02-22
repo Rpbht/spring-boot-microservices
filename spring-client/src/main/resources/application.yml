@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: client
+    
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1111/eureka/
+      
+      
+server:
+  error:
+    whitelabel:
+      enabled: false
+      
