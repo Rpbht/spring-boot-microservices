@@ -22,6 +22,4 @@ In this project i've created simple microservices, In this project i've created 
 
 ## References
 
-Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye.  Here are a few programs that can help you quickly create gifs for your project:
-
 - [Spring](https://spring.io/blog/2015/07/14/microservices-with-spring)
